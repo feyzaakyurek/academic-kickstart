@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: hebele
 
 # View.
 #   1 = List
@@ -13,3 +13,7 @@ header:
   caption: ""
   image: ""
 ---
+
+
+[[pages]]
+  title = "Biostatistics Intern"
