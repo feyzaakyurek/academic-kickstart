@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first-year Computer Science PhD student at Boston University, lucky to be advised by [Derry Wijaya](https://derrywijaya.github.io/). Before that I received my masters in Statistics from Carnegie Mellon University. I earned my bachelors both in Industrial and Computer Engineering from Koç University, Istanbul. I am currently interested in natural language processing, computer vision and learning with less labels along with some applications to journalism and communications.
+I am a second-year Computer Science PhD student at Boston University, lucky to be advised by [Derry Wijaya](https://derrywijaya.github.io/). Before that I received my masters in Statistics from Carnegie Mellon University. I earned my bachelors both in Industrial and Computer Engineering from Koç University, Istanbul. I am currently interested in natural language processing, computer vision and learning with less labels along with some applications to journalism and communications.
